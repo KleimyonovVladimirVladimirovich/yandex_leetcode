@@ -2,6 +2,7 @@ package org.example.array;
 
 import java.util.Arrays;
 import java.util.HashMap;
+import java.util.Map;
 
 public class ValidAnagram125 {
     public static void main(String[] args) {
@@ -38,5 +39,7 @@ public class ValidAnagram125 {
         }
         return sMap.equals(tMap);
     }
+
+
 
 }
