@@ -4,6 +4,7 @@ import java.util.List;
 import java.util.PriorityQueue;
 
 public class MergeKSortedLists {
+    
     static class ListNode {
         int val;
         ListNode next;
